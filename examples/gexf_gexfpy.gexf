@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:gexf xmlns:ns0="http://www.gexf.net/1.2draft" version="1.2">
+  <ns0:graph>
+    <ns0:nodes count="48">
+      <ns0:node id="0" label="d">
+        <ns0:color r="106" g="61" b="154"/>
+      </ns0:node>
+      <ns0:node id="1514753" label="e">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:node>
+      <ns0:node id="3265410" label="a">
+        <ns0:color r="255" g="127" b="0"/>
+      </ns0:node>
+      <ns0:node id="4" label="a">
+        <ns0:color r="255" g="127" b="0"/>
+      </ns0:node>
+      <ns0:node id="5" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="6" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="7" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="8" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="9" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="10" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="11" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="839946" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="4149513" label="e">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:node>
+      <ns0:node id="841620" label="b">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:node>
+      <ns0:node id="1515287" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="3269026" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="839856" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="1513396" label="a">
+        <ns0:color r="255" g="127" b="0"/>
+      </ns0:node>
+      <ns0:node id="4152884" label="a">
+        <ns0:color r="255" g="127" b="0"/>
+      </ns0:node>
+      <ns0:node id="2399032" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="4152889" label="e">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:node>
+      <ns0:node id="4148156" label="a">
+        <ns0:color r="255" g="127" b="0"/>
+      </ns0:node>
+      <ns0:node id="842428" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="2398910" label="a">
+        <ns0:color r="255" g="127" b="0"/>
+      </ns0:node>
+      <ns0:node id="1518271" label="a">
+        <ns0:color r="255" g="127" b="0"/>
+      </ns0:node>
+      <ns0:node id="839359" label="e">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:node>
+      <ns0:node id="839874" label="b">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:node>
+      <ns0:node id="1518283" label="e">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:node>
+      <ns0:node id="1515340" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="2395467" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="2395468" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="2395469" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="2395470" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="2395471" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="3267282" label="b">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:node>
+      <ns0:node id="2395472" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="2395473" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="839893" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="2395474" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="2395475" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="2395476" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="2395477" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="2395478" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="3266767" label="e">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:node>
+      <ns0:node id="1515496" label="b">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:node>
+      <ns0:node id="3269871" label="c">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:node>
+      <ns0:node id="838002" label="a">
+        <ns0:color r="255" g="127" b="0"/>
+      </ns0:node>
+      <ns0:node id="3269118" label="b">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:node>
+    </ns0:nodes>
+    <ns0:edges count="77">
+      <ns0:edge id="0" type="undirected" label="p" source="4" target="5" weight="1">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:edge>
+      <ns0:edge id="1" type="undirected" label="p" source="4" target="6" weight="1">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:edge>
+      <ns0:edge id="2" type="undirected" label="p" source="4" target="7" weight="1">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:edge>
+      <ns0:edge id="3" type="undirected" label="p" source="4" target="8" weight="1">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:edge>
+      <ns0:edge id="4" type="undirected" label="j" source="4" target="9" weight="1">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:edge>
+      <ns0:edge id="5" type="undirected" label="t" source="4" target="0" weight="1">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:edge>
+      <ns0:edge id="6" type="undirected" label="j" source="4" target="10" weight="1">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:edge>
+      <ns0:edge id="7" type="undirected" label="u" source="4" target="11" weight="1">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:edge>
+      <ns0:edge id="8" type="undirected" label="q" source="4" target="11" weight="1">
+        <ns0:color r="166" g="206" b="227"/>
+      </ns0:edge>
+      <ns0:edge id="9" type="undirected" label="G" source="839874" target="839946" weight="1">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:edge>
+      <ns0:edge id="10" type="undirected" label="v" source="838002" target="839893" weight="1">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:edge>
+      <ns0:edge id="11" type="undirected" label="G" source="841620" target="842428" weight="1">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:edge>
+      <ns0:edge id="12" type="undirected" label="w" source="838002" target="839359" weight="1">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:edge>
+      <ns0:edge id="13" type="undirected" label="w" source="839874" target="839856" weight="1">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:edge>
+      <ns0:edge id="14" type="undirected" label="z" source="839874" target="839856" weight="1">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:edge>
+      <ns0:edge id="15" type="undirected" label="w" source="839874" target="839856" weight="1">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:edge>
+      <ns0:edge id="16" type="undirected" label="G" source="839874" target="839946" weight="1">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:edge>
+      <ns0:edge id="17" type="undirected" label="v" source="838002" target="839893" weight="1">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:edge>
+      <ns0:edge id="18" type="undirected" label="G" source="841620" target="842428" weight="1">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:edge>
+      <ns0:edge id="19" type="undirected" label="w" source="838002" target="839359" weight="1">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:edge>
+      <ns0:edge id="20" type="undirected" label="w" source="839874" target="839856" weight="1">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:edge>
+      <ns0:edge id="21" type="undirected" label="G" source="839874" target="839946" weight="1">
+        <ns0:color r="178" g="223" b="138"/>
+      </ns0:edge>
+      <ns0:edge id="22" type="undirected" label="v" source="1513396" target="1515287" weight="1">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="23" type="undirected" label="w" source="1513396" target="1514753" weight="1">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="24" type="undirected" label="w" source="1518271" target="1518283" weight="1">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="25" type="undirected" label="G" source="1515496" target="1515340" weight="1">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="26" type="undirected" label="v" source="1513396" target="1515287" weight="1">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="27" type="undirected" label="w" source="1513396" target="1514753" weight="1">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="28" type="undirected" label="w" source="1518271" target="1518283" weight="1">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="29" type="undirected" label="G" source="1515496" target="1515340" weight="1">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="30" type="undirected" label="v" source="1513396" target="1515287" weight="1">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="31" type="undirected" label="w" source="1513396" target="1514753" weight="1">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="32" type="undirected" label="w" source="1518271" target="1518283" weight="1">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="33" type="undirected" label="G" source="1515496" target="1515340" weight="1">
+        <ns0:color r="251" g="154" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="34" type="undirected" label="n" source="2398910" target="2395467" weight="1">
+        <ns0:color r="253" g="191" b="111"/>
+      </ns0:edge>
+      <ns0:edge id="35" type="undirected" label="u" source="2398910" target="2399032" weight="1">
+        <ns0:color r="253" g="191" b="111"/>
+      </ns0:edge>
+      <ns0:edge id="36" type="undirected" label="u" source="2398910" target="2395468" weight="1">
+        <ns0:color r="253" g="191" b="111"/>
+      </ns0:edge>
+      <ns0:edge id="37" type="undirected" label="u" source="2398910" target="2395469" weight="1">
+        <ns0:color r="253" g="191" b="111"/>
+      </ns0:edge>
+      <ns0:edge id="38" type="undirected" label="u" source="2398910" target="2395470" weight="1">
+        <ns0:color r="253" g="191" b="111"/>
+      </ns0:edge>
+      <ns0:edge id="39" type="undirected" label="u" source="2398910" target="2395471" weight="1">
+        <ns0:color r="253" g="191" b="111"/>
+      </ns0:edge>
+      <ns0:edge id="40" type="undirected" label="u" source="2398910" target="2395472" weight="1">
+        <ns0:color r="253" g="191" b="111"/>
+      </ns0:edge>
+      <ns0:edge id="41" type="undirected" label="u" source="2398910" target="2395473" weight="1">
+        <ns0:color r="253" g="191" b="111"/>
+      </ns0:edge>
+      <ns0:edge id="42" type="undirected" label="u" source="2398910" target="2395474" weight="1">
+        <ns0:color r="253" g="191" b="111"/>
+      </ns0:edge>
+      <ns0:edge id="43" type="undirected" label="u" source="2398910" target="2395475" weight="1">
+        <ns0:color r="253" g="191" b="111"/>
+      </ns0:edge>
+      <ns0:edge id="44" type="undirected" label="u" source="2398910" target="2395476" weight="1">
+        <ns0:color r="253" g="191" b="111"/>
+      </ns0:edge>
+      <ns0:edge id="45" type="undirected" label="u" source="2398910" target="2395477" weight="1">
+        <ns0:color r="253" g="191" b="111"/>
+      </ns0:edge>
+      <ns0:edge id="46" type="undirected" label="u" source="2398910" target="2395478" weight="1">
+        <ns0:color r="253" g="191" b="111"/>
+      </ns0:edge>
+      <ns0:edge id="47" type="undirected" label="G" source="3269118" target="3269026" weight="1">
+        <ns0:color r="202" g="178" b="214"/>
+      </ns0:edge>
+      <ns0:edge id="48" type="undirected" label="H" source="3265410" target="3266767" weight="1">
+        <ns0:color r="202" g="178" b="214"/>
+      </ns0:edge>
+      <ns0:edge id="49" type="undirected" label="w" source="3267282" target="3269871" weight="1">
+        <ns0:color r="202" g="178" b="214"/>
+      </ns0:edge>
+      <ns0:edge id="50" type="undirected" label="w" source="3265410" target="3266767" weight="1">
+        <ns0:color r="202" g="178" b="214"/>
+      </ns0:edge>
+      <ns0:edge id="51" type="undirected" label="w" source="3267282" target="3269871" weight="1">
+        <ns0:color r="202" g="178" b="214"/>
+      </ns0:edge>
+      <ns0:edge id="52" type="undirected" label="H" source="3265410" target="3266767" weight="1">
+        <ns0:color r="202" g="178" b="214"/>
+      </ns0:edge>
+      <ns0:edge id="53" type="undirected" label="w" source="3265410" target="3266767" weight="1">
+        <ns0:color r="202" g="178" b="214"/>
+      </ns0:edge>
+      <ns0:edge id="54" type="undirected" label="w" source="3267282" target="3269871" weight="1">
+        <ns0:color r="202" g="178" b="214"/>
+      </ns0:edge>
+      <ns0:edge id="55" type="undirected" label="H" source="3265410" target="3266767" weight="1">
+        <ns0:color r="202" g="178" b="214"/>
+      </ns0:edge>
+      <ns0:edge id="56" type="undirected" label="w" source="3265410" target="3266767" weight="1">
+        <ns0:color r="202" g="178" b="214"/>
+      </ns0:edge>
+      <ns0:edge id="57" type="undirected" label="w" source="3267282" target="3269871" weight="1">
+        <ns0:color r="202" g="178" b="214"/>
+      </ns0:edge>
+      <ns0:edge id="58" type="undirected" label="w" source="3265410" target="3266767" weight="1">
+        <ns0:color r="202" g="178" b="214"/>
+      </ns0:edge>
+      <ns0:edge id="59" type="undirected" label="H" source="3265410" target="3266767" weight="1">
+        <ns0:color r="202" g="178" b="214"/>
+      </ns0:edge>
+      <ns0:edge id="60" type="undirected" label="w" source="3267282" target="3269871" weight="1">
+        <ns0:color r="202" g="178" b="214"/>
+      </ns0:edge>
+      <ns0:edge id="61" type="undirected" label="w" source="3265410" target="3266767" weight="1">
+        <ns0:color r="202" g="178" b="214"/>
+      </ns0:edge>
+      <ns0:edge id="62" type="undirected" label="w" source="3267282" target="3269871" weight="1">
+        <ns0:color r="202" g="178" b="214"/>
+      </ns0:edge>
+      <ns0:edge id="63" type="undirected" label="w" source="4148156" target="4149513" weight="1">
+        <ns0:color r="255" g="255" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="64" type="undirected" label="H" source="4148156" target="4149513" weight="1">
+        <ns0:color r="255" g="255" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="65" type="undirected" label="w" source="4148156" target="4149513" weight="1">
+        <ns0:color r="255" g="255" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="66" type="undirected" label="H" source="4148156" target="4149513" weight="1">
+        <ns0:color r="255" g="255" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="67" type="undirected" label="w" source="4148156" target="4149513" weight="1">
+        <ns0:color r="255" g="255" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="68" type="undirected" label="H" source="4148156" target="4149513" weight="1">
+        <ns0:color r="255" g="255" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="69" type="undirected" label="w" source="4148156" target="4149513" weight="1">
+        <ns0:color r="255" g="255" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="70" type="undirected" label="H" source="4148156" target="4149513" weight="1">
+        <ns0:color r="255" g="255" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="71" type="undirected" label="w" source="4148156" target="4149513" weight="1">
+        <ns0:color r="255" g="255" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="72" type="undirected" label="H" source="4148156" target="4149513" weight="1">
+        <ns0:color r="255" g="255" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="73" type="undirected" label="w" source="4148156" target="4149513" weight="1">
+        <ns0:color r="255" g="255" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="74" type="undirected" label="H" source="4148156" target="4149513" weight="1">
+        <ns0:color r="255" g="255" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="75" type="undirected" label="w" source="4148156" target="4149513" weight="1">
+        <ns0:color r="255" g="255" b="153"/>
+      </ns0:edge>
+      <ns0:edge id="76" type="undirected" label="G" source="4152884" target="4152889" weight="1">
+        <ns0:color r="255" g="255" b="153"/>
+      </ns0:edge>
+    </ns0:edges>
+  </ns0:graph>
+</ns0:gexf>

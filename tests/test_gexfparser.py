@@ -1,4 +1,4 @@
-from gexfpy import parse_string, stringify
+from gexfpy import parse_string, stringify, xmlserialize
 
 gexf_12_s = '''
 <?xml version="1.0" encoding="UTF-8"?>
@@ -33,10 +33,11 @@ def test_stringify():
                                     Node(id=3, label="node 3")],
                               count=3)]
     gexf.graph.edges = [Edges(edge=[Edge(source=1, target=2, label="edge 1"),
-                                    Edge(source=2, target=3, label="edge 1")],
+                                    Edge(source=2, target=3, label="edge 2")],
                               count=2)]
     s = stringify(gexf)
     assert "255" in s
+    # xmlserialize(gexf, "xmlserialize.xml")
 
 
 if __name__ == "__main__":

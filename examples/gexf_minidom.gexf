@@ -1,0 +1,436 @@
+<?xml version="1.0" ?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2">
+	<meta lastmodifieddate="2021-10-28">
+		<creator>Chunqi Shi</creator>
+		<description>sbustreamspot-data display in gexf by gephi</description>
+	</meta>
+	<graph mode="static" defaultedgetype="undirected">
+		<nodes count="48">
+			<node id="0" label="d">
+				<color r="251" g="154" b="153"/>
+				<attvalues/>
+			</node>
+			<node id="1514753" label="e">
+				<color r="255" g="127" b="0"/>
+				<attvalues/>
+			</node>
+			<node id="3265410" label="a">
+				<color r="178" g="223" b="138"/>
+				<attvalues/>
+			</node>
+			<node id="4" label="a">
+				<color r="178" g="223" b="138"/>
+				<attvalues/>
+			</node>
+			<node id="5" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="6" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="7" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="8" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="9" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="10" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="11" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="839946" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="4149513" label="e">
+				<color r="255" g="127" b="0"/>
+				<attvalues/>
+			</node>
+			<node id="841620" label="b">
+				<color r="166" g="206" b="227"/>
+				<attvalues/>
+			</node>
+			<node id="1515287" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="3269026" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="839856" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="1513396" label="a">
+				<color r="178" g="223" b="138"/>
+				<attvalues/>
+			</node>
+			<node id="4152884" label="a">
+				<color r="178" g="223" b="138"/>
+				<attvalues/>
+			</node>
+			<node id="2399032" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="4152889" label="e">
+				<color r="255" g="127" b="0"/>
+				<attvalues/>
+			</node>
+			<node id="4148156" label="a">
+				<color r="178" g="223" b="138"/>
+				<attvalues/>
+			</node>
+			<node id="842428" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="2398910" label="a">
+				<color r="178" g="223" b="138"/>
+				<attvalues/>
+			</node>
+			<node id="1518271" label="a">
+				<color r="178" g="223" b="138"/>
+				<attvalues/>
+			</node>
+			<node id="839359" label="e">
+				<color r="255" g="127" b="0"/>
+				<attvalues/>
+			</node>
+			<node id="839874" label="b">
+				<color r="166" g="206" b="227"/>
+				<attvalues/>
+			</node>
+			<node id="1518283" label="e">
+				<color r="255" g="127" b="0"/>
+				<attvalues/>
+			</node>
+			<node id="1515340" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="2395467" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="2395468" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="2395469" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="2395470" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="2395471" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="3267282" label="b">
+				<color r="166" g="206" b="227"/>
+				<attvalues/>
+			</node>
+			<node id="2395472" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="2395473" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="839893" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="2395474" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="2395475" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="2395476" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="2395477" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="2395478" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="3266767" label="e">
+				<color r="255" g="127" b="0"/>
+				<attvalues/>
+			</node>
+			<node id="1515496" label="b">
+				<color r="166" g="206" b="227"/>
+				<attvalues/>
+			</node>
+			<node id="3269871" label="c">
+				<color r="106" g="61" b="154"/>
+				<attvalues/>
+			</node>
+			<node id="838002" label="a">
+				<color r="178" g="223" b="138"/>
+				<attvalues/>
+			</node>
+			<node id="3269118" label="b">
+				<color r="166" g="206" b="227"/>
+				<attvalues/>
+			</node>
+		</nodes>
+		<edges count="77">
+			<edge id="0" source="4" target="5" type="undirected" label="p" weight="1">
+				<color r="166" g="206" b="227"/>
+			</edge>
+			<edge id="1" source="4" target="6" type="undirected" label="p" weight="1">
+				<color r="166" g="206" b="227"/>
+			</edge>
+			<edge id="2" source="4" target="7" type="undirected" label="p" weight="1">
+				<color r="166" g="206" b="227"/>
+			</edge>
+			<edge id="3" source="4" target="8" type="undirected" label="p" weight="1">
+				<color r="166" g="206" b="227"/>
+			</edge>
+			<edge id="4" source="4" target="9" type="undirected" label="j" weight="1">
+				<color r="166" g="206" b="227"/>
+			</edge>
+			<edge id="5" source="4" target="0" type="undirected" label="t" weight="1">
+				<color r="166" g="206" b="227"/>
+			</edge>
+			<edge id="6" source="4" target="10" type="undirected" label="j" weight="1">
+				<color r="166" g="206" b="227"/>
+			</edge>
+			<edge id="7" source="4" target="11" type="undirected" label="u" weight="1">
+				<color r="166" g="206" b="227"/>
+			</edge>
+			<edge id="8" source="4" target="11" type="undirected" label="q" weight="1">
+				<color r="166" g="206" b="227"/>
+			</edge>
+			<edge id="9" source="839874" target="839946" type="undirected" label="G" weight="1">
+				<color r="178" g="223" b="138"/>
+			</edge>
+			<edge id="10" source="838002" target="839893" type="undirected" label="v" weight="1">
+				<color r="178" g="223" b="138"/>
+			</edge>
+			<edge id="11" source="841620" target="842428" type="undirected" label="G" weight="1">
+				<color r="178" g="223" b="138"/>
+			</edge>
+			<edge id="12" source="838002" target="839359" type="undirected" label="w" weight="1">
+				<color r="178" g="223" b="138"/>
+			</edge>
+			<edge id="13" source="839874" target="839856" type="undirected" label="w" weight="1">
+				<color r="178" g="223" b="138"/>
+			</edge>
+			<edge id="14" source="839874" target="839856" type="undirected" label="z" weight="1">
+				<color r="178" g="223" b="138"/>
+			</edge>
+			<edge id="15" source="839874" target="839856" type="undirected" label="w" weight="1">
+				<color r="178" g="223" b="138"/>
+			</edge>
+			<edge id="16" source="839874" target="839946" type="undirected" label="G" weight="1">
+				<color r="178" g="223" b="138"/>
+			</edge>
+			<edge id="17" source="838002" target="839893" type="undirected" label="v" weight="1">
+				<color r="178" g="223" b="138"/>
+			</edge>
+			<edge id="18" source="841620" target="842428" type="undirected" label="G" weight="1">
+				<color r="178" g="223" b="138"/>
+			</edge>
+			<edge id="19" source="838002" target="839359" type="undirected" label="w" weight="1">
+				<color r="178" g="223" b="138"/>
+			</edge>
+			<edge id="20" source="839874" target="839856" type="undirected" label="w" weight="1">
+				<color r="178" g="223" b="138"/>
+			</edge>
+			<edge id="21" source="839874" target="839946" type="undirected" label="G" weight="1">
+				<color r="178" g="223" b="138"/>
+			</edge>
+			<edge id="22" source="1513396" target="1515287" type="undirected" label="v" weight="1">
+				<color r="251" g="154" b="153"/>
+			</edge>
+			<edge id="23" source="1513396" target="1514753" type="undirected" label="w" weight="1">
+				<color r="251" g="154" b="153"/>
+			</edge>
+			<edge id="24" source="1518271" target="1518283" type="undirected" label="w" weight="1">
+				<color r="251" g="154" b="153"/>
+			</edge>
+			<edge id="25" source="1515496" target="1515340" type="undirected" label="G" weight="1">
+				<color r="251" g="154" b="153"/>
+			</edge>
+			<edge id="26" source="1513396" target="1515287" type="undirected" label="v" weight="1">
+				<color r="251" g="154" b="153"/>
+			</edge>
+			<edge id="27" source="1513396" target="1514753" type="undirected" label="w" weight="1">
+				<color r="251" g="154" b="153"/>
+			</edge>
+			<edge id="28" source="1518271" target="1518283" type="undirected" label="w" weight="1">
+				<color r="251" g="154" b="153"/>
+			</edge>
+			<edge id="29" source="1515496" target="1515340" type="undirected" label="G" weight="1">
+				<color r="251" g="154" b="153"/>
+			</edge>
+			<edge id="30" source="1513396" target="1515287" type="undirected" label="v" weight="1">
+				<color r="251" g="154" b="153"/>
+			</edge>
+			<edge id="31" source="1513396" target="1514753" type="undirected" label="w" weight="1">
+				<color r="251" g="154" b="153"/>
+			</edge>
+			<edge id="32" source="1518271" target="1518283" type="undirected" label="w" weight="1">
+				<color r="251" g="154" b="153"/>
+			</edge>
+			<edge id="33" source="1515496" target="1515340" type="undirected" label="G" weight="1">
+				<color r="251" g="154" b="153"/>
+			</edge>
+			<edge id="34" source="2398910" target="2395467" type="undirected" label="n" weight="1">
+				<color r="253" g="191" b="111"/>
+			</edge>
+			<edge id="35" source="2398910" target="2399032" type="undirected" label="u" weight="1">
+				<color r="253" g="191" b="111"/>
+			</edge>
+			<edge id="36" source="2398910" target="2395468" type="undirected" label="u" weight="1">
+				<color r="253" g="191" b="111"/>
+			</edge>
+			<edge id="37" source="2398910" target="2395469" type="undirected" label="u" weight="1">
+				<color r="253" g="191" b="111"/>
+			</edge>
+			<edge id="38" source="2398910" target="2395470" type="undirected" label="u" weight="1">
+				<color r="253" g="191" b="111"/>
+			</edge>
+			<edge id="39" source="2398910" target="2395471" type="undirected" label="u" weight="1">
+				<color r="253" g="191" b="111"/>
+			</edge>
+			<edge id="40" source="2398910" target="2395472" type="undirected" label="u" weight="1">
+				<color r="253" g="191" b="111"/>
+			</edge>
+			<edge id="41" source="2398910" target="2395473" type="undirected" label="u" weight="1">
+				<color r="253" g="191" b="111"/>
+			</edge>
+			<edge id="42" source="2398910" target="2395474" type="undirected" label="u" weight="1">
+				<color r="253" g="191" b="111"/>
+			</edge>
+			<edge id="43" source="2398910" target="2395475" type="undirected" label="u" weight="1">
+				<color r="253" g="191" b="111"/>
+			</edge>
+			<edge id="44" source="2398910" target="2395476" type="undirected" label="u" weight="1">
+				<color r="253" g="191" b="111"/>
+			</edge>
+			<edge id="45" source="2398910" target="2395477" type="undirected" label="u" weight="1">
+				<color r="253" g="191" b="111"/>
+			</edge>
+			<edge id="46" source="2398910" target="2395478" type="undirected" label="u" weight="1">
+				<color r="253" g="191" b="111"/>
+			</edge>
+			<edge id="47" source="3269118" target="3269026" type="undirected" label="G" weight="1">
+				<color r="202" g="178" b="214"/>
+			</edge>
+			<edge id="48" source="3265410" target="3266767" type="undirected" label="H" weight="1">
+				<color r="202" g="178" b="214"/>
+			</edge>
+			<edge id="49" source="3267282" target="3269871" type="undirected" label="w" weight="1">
+				<color r="202" g="178" b="214"/>
+			</edge>
+			<edge id="50" source="3265410" target="3266767" type="undirected" label="w" weight="1">
+				<color r="202" g="178" b="214"/>
+			</edge>
+			<edge id="51" source="3267282" target="3269871" type="undirected" label="w" weight="1">
+				<color r="202" g="178" b="214"/>
+			</edge>
+			<edge id="52" source="3265410" target="3266767" type="undirected" label="H" weight="1">
+				<color r="202" g="178" b="214"/>
+			</edge>
+			<edge id="53" source="3265410" target="3266767" type="undirected" label="w" weight="1">
+				<color r="202" g="178" b="214"/>
+			</edge>
+			<edge id="54" source="3267282" target="3269871" type="undirected" label="w" weight="1">
+				<color r="202" g="178" b="214"/>
+			</edge>
+			<edge id="55" source="3265410" target="3266767" type="undirected" label="H" weight="1">
+				<color r="202" g="178" b="214"/>
+			</edge>
+			<edge id="56" source="3265410" target="3266767" type="undirected" label="w" weight="1">
+				<color r="202" g="178" b="214"/>
+			</edge>
+			<edge id="57" source="3267282" target="3269871" type="undirected" label="w" weight="1">
+				<color r="202" g="178" b="214"/>
+			</edge>
+			<edge id="58" source="3265410" target="3266767" type="undirected" label="w" weight="1">
+				<color r="202" g="178" b="214"/>
+			</edge>
+			<edge id="59" source="3265410" target="3266767" type="undirected" label="H" weight="1">
+				<color r="202" g="178" b="214"/>
+			</edge>
+			<edge id="60" source="3267282" target="3269871" type="undirected" label="w" weight="1">
+				<color r="202" g="178" b="214"/>
+			</edge>
+			<edge id="61" source="3265410" target="3266767" type="undirected" label="w" weight="1">
+				<color r="202" g="178" b="214"/>
+			</edge>
+			<edge id="62" source="3267282" target="3269871" type="undirected" label="w" weight="1">
+				<color r="202" g="178" b="214"/>
+			</edge>
+			<edge id="63" source="4148156" target="4149513" type="undirected" label="w" weight="1">
+				<color r="255" g="255" b="153"/>
+			</edge>
+			<edge id="64" source="4148156" target="4149513" type="undirected" label="H" weight="1">
+				<color r="255" g="255" b="153"/>
+			</edge>
+			<edge id="65" source="4148156" target="4149513" type="undirected" label="w" weight="1">
+				<color r="255" g="255" b="153"/>
+			</edge>
+			<edge id="66" source="4148156" target="4149513" type="undirected" label="H" weight="1">
+				<color r="255" g="255" b="153"/>
+			</edge>
+			<edge id="67" source="4148156" target="4149513" type="undirected" label="w" weight="1">
+				<color r="255" g="255" b="153"/>
+			</edge>
+			<edge id="68" source="4148156" target="4149513" type="undirected" label="H" weight="1">
+				<color r="255" g="255" b="153"/>
+			</edge>
+			<edge id="69" source="4148156" target="4149513" type="undirected" label="w" weight="1">
+				<color r="255" g="255" b="153"/>
+			</edge>
+			<edge id="70" source="4148156" target="4149513" type="undirected" label="H" weight="1">
+				<color r="255" g="255" b="153"/>
+			</edge>
+			<edge id="71" source="4148156" target="4149513" type="undirected" label="w" weight="1">
+				<color r="255" g="255" b="153"/>
+			</edge>
+			<edge id="72" source="4148156" target="4149513" type="undirected" label="H" weight="1">
+				<color r="255" g="255" b="153"/>
+			</edge>
+			<edge id="73" source="4148156" target="4149513" type="undirected" label="w" weight="1">
+				<color r="255" g="255" b="153"/>
+			</edge>
+			<edge id="74" source="4148156" target="4149513" type="undirected" label="H" weight="1">
+				<color r="255" g="255" b="153"/>
+			</edge>
+			<edge id="75" source="4148156" target="4149513" type="undirected" label="w" weight="1">
+				<color r="255" g="255" b="153"/>
+			</edge>
+			<edge id="76" source="4152884" target="4152889" type="undirected" label="G" weight="1">
+				<color r="255" g="255" b="153"/>
+			</edge>
+		</edges>
+	</graph>
+</gexf>
