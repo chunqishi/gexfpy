@@ -1,0 +1,2 @@
+xsdata==21.9
+matplotlib>=3.3.2
