@@ -1,0 +1,27 @@
+language: python
+
+python:
+  - "3.8"
+
+install:
+  - pip install xsdata==21.9
+  - pip install matplotlib==3.3.2
+  - bash ./scripts/installation/metis.sh
+  - source ./scripts/installation/gcc.sh
+  - pip install metis
+  - pip install -r docs/requirements.txt
+  - pip install -e .
+
+before_script:
+  - black .
+  - flake8 .
+
+script:
+  - coverage run --source=gexfph -m pytest tests
+  - cd docs && make clean && make html && cd ..
+
+after_success:
+- coveralls
+
+notifications:
+  email: false
