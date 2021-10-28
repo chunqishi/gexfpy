@@ -23,4 +23,3 @@ Or clone the repository and install with the following commands:
     git clone git@github.com:chunqishi/gexfpy.git
     cd gexfpy
     pip install -e .
-

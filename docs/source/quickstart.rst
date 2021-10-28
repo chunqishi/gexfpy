@@ -31,4 +31,3 @@ API Usage
 							  count=2)]
 	s = stringify(gexf)
 	print(s)
-

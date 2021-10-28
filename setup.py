@@ -29,15 +29,15 @@ def find_version(filename):
     raise RuntimeError("Unable to find version string.")
 
 
-here = path.abspath(path.dirname(__file__))
-with open(path.join(here, "README.md"), encoding="utf8") as f:
-    readme = f.read()
+from pathlib import Path
+this_directory = Path(__file__).parent
+long_description = (this_directory / "README.md").read_text()
 
 setup(
     name="gexfpy",
     version=find_version("gexfpy/__init__.py"),
     description="An Python Class for Generate gexf format graph description file for gephi.",
-    long_description=readme,
+    long_description=long_description,
     long_description_content_type="text/markdown",
     author='Chunqi Shi',
     author_email='scq830@163.com',

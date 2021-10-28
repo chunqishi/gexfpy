@@ -74,7 +74,9 @@ Check the `documentation <https://gexfpy.readthedocs.io>`_ for more
 
 
 ## Changelog
+
 ### Version 0.1.1 2021-10-30
-It works only for gexf version 1.2 draft
+
+It works only for gexf version 1.2 draft.
 
 
